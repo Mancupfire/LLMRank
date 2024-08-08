@@ -1,8 +1,6 @@
 # LLMRank
 
-**LLMRank** aims to investigate the capacity of LLMs that act as the ranking model for recommender systems. [[paper]](https://arxiv.org/abs/2305.08845)
-
-> Yupeng Hou†, Junjie Zhang†, Zihan Lin, Hongyu Lu, Ruobing Xie, Julian McAuley, Wayne Xin Zhao. Large Language Models are Zero-Shot Rankers for Recommender Systems. ECIR 2024.
+**LLMRank** aims to investigate the capacity of LLMs that act as the ranking model for recommender systems.
 
 ## 🛍️ LLMs as Zero-Shot Rankers
 
